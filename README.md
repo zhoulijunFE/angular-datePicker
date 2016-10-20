@@ -8,5 +8,8 @@
 Demo: http://plnkr.co/edit/9OlVshuIG0lJ6153p4UA?p=preview
 
 ### Usage:
+
+```
 <common-datepicker [dateInNanoSecond]="dateInNanoExp" [class]="stringExp" (selectedDate)="functionExp">
 </common-datepicker>
+```
